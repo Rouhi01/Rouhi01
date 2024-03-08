@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rouhollah Shafahi</h1>
-<br></br>
+
 - 🌱 I’m currently learning **Django**
 <br></br>
 ```Python:
