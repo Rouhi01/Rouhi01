@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rouhollah Shafahi</h1>
 
 
--🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django**
 
 ```Python:
 class RouhollahShafahi():
