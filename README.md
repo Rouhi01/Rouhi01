@@ -1,1 +1,3 @@
 # Hi, I'm Rouhi! 👋
+## 🚀 About Me
+I'm a full stack developer...
