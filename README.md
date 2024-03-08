@@ -1,7 +1,7 @@
 
 🌱 I’m currently learning **Django**
 
-```python:
+```Python:
 class RouhollahShafahi():
     
   def __init__(self):
