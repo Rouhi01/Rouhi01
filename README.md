@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rouhollah Shafahi</h1>
+<h1 align="center">
+  <b>Rouhollah Shafahi</b>
+</h1>
+<br>
+</br>
 
-- 🌱 I’m currently learning **Django**
+🌱 I’m currently learning **Django**
 <br></br>
-```Python:
+
+```Python
 class RouhollahShafahi():
     
   def __init__(self):
